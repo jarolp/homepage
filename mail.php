@@ -11,7 +11,4 @@ if (!empty($subject) && !empty($phone) && !empty($name) && !empty($email) && !em
     mail($to, $subject, $message.''.$name.''.$email.''.$phone);
     $response = 'sent';    
     echo json_encode($response);    
-
-} else {
-    echo 'co nie pasuje';
 }
