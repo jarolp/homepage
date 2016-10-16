@@ -63,9 +63,10 @@
                             <div class="clearfix"></div>
                             <hr class="star-light clearfix">
                             <p>Jestem absolwentem studiów magisterskich Uniwersytetu Ekonomicznego w Katowicach, kierunku informatyka i ekonometria.</p>
-                            <p>Tworzenie stron WWW to dla mnie świetna zabawa, a do każdej stworzonej strony WWW podchodzę profesjonalnie i indywidualnie.</p>
-                            <p>Mam na swoim koncie kilka ciekawych projektów które można zobaczyć poniżej.</p>
-                            <p>Zapraszam również do odwiedzenia mojego <a href="https://github.com/jarolp" target="_blank">gitHuba</a></p>
+                            <p>Tworzę strony używając języka PHP i JavaScript. Nadto korzystam z HTML5, CSS3 i MySQL.
+                            Dla łatwej obsługi strony wykorzystuję system Wordpress, a w razie konieczności używam również technik RWD.
+                            Do każdej stworzonej strony WWW podchodzę profesjonalnie i indywidualnie.</p>
+                            <p>Zapraszam do wspópracy :)</p>
                         </div>
                     </div>
                     <div class="col-sm-6 col-md-6 text-center hidden-xs">
